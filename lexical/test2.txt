@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int a=3.222;
+if(a>=1)
+{cout<<"你好！";}
+return 0;
+}
